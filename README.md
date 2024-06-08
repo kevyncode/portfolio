@@ -14,7 +14,9 @@ Este portfólio inclui uma coleção de meus projetos mais notáveis, detalhando
 
 ## Demonstração do Projeto
 
-<img src="images/demonstração.png" alt="user">
+<p align="center">
+  <img src="images/demonstração.png" alt="user">
+</p>
 
 ## Licença
 
