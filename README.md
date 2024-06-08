@@ -12,6 +12,10 @@ Este portfólio inclui uma coleção de meus projetos mais notáveis, detalhando
 - CSS3
 - JavaScript
 
+## Demonstração do Projeto
+
+<img src="images/demonstração.png" alt="user">
+
 ## Licença
 
 Este projeto está licenciado sob a MIT License (MIT).
