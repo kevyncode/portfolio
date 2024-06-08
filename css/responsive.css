@@ -1,94 +1,122 @@
-@media (min-width: 768px) and (max-width: 999px) {
-  .servicos-box {
-      flex-direction: row;
-  }
-}
-
-@media (min-width: 1000px) {
-  body {
-      height: 100vh;
+@media (max-width: 767px) {
+    .user {
+      width: 100%;
+      height: auto;
+      flex-direction: column;
+    }
+    
+    .info-user h1 {
+      font-size: 1.2rem;
+    }
+    
+    .info-user span {
+      font-size: 1rem;
+    }
+    
+    .info-user p {
+      font-size: 0.875rem;
+    }
   }
   
-  /*Widget 1*/
-  .top {
+  @media (min-width: 768px) and (max-width: 999px) {
+    .servicos-box {
+      flex-direction: row;
+      gap: 0.5rem;
+    }
+    
+    .item-servico {
+      width: 200px;
+      height: 200px;
+    }
+  }
+  
+  @media (min-width: 1000px) {
+    body {
+      height: 100vh;
+    }
+    
+    /* Widget 1 */
+    .top {
       width: 100%;
       height: 40vh;
+      display: flex;
       flex-direction: row;
-  }
-
-  .user {
+    }
+  
+    .user {
       width: 70%;
       height: 100%;
-  }
-
-  .info-user h1 {
+    }
+  
+    .info-user h1 {
       font-size: 1.8rem;
-  }
-  
-  .info-user span {
+    }
+    
+    .info-user span {
       font-size: 1.5rem;
-  }
-  
-  .info-user p {
+    }
+    
+    .info-user p {
       font-size: 1.2rem;
-  }
-
-  .projeto {
+    }
+  
+    .projeto {
       width: 30%;
       height: 100%;
-  }
-
-  /*Widget 2*/
-  .center {
+    }
+  
+    /* Widget 2 */
+    .center {
       width: 100%;
       height: 10vh;
+      display: flex;
       flex-direction: row;
-  }
-
-  .redes-sociais {
+    }
+  
+    .redes-sociais {
       width: 30%;
       height: 100%;
-  }
-
-  .skills {
+    }
+  
+    .skills {
       width: 70%;
       height: 100%;
-  }
-  
-  /*Widget 3*/
-  .bottom {
+    }
+    
+    /* Widget 3 */
+    .bottom {
       width: 100%;
       height: 40vh;
+      display: flex;
       flex-direction: row-reverse;
-  }
-
-  .contato {
+    }
+  
+    .contato {
       width: 30%;
       height: 100%;
-  }
-
-  .servicos {
+    }
+  
+    .servicos {
       width: 70%;
       height: 100%;
-  }
-
-  .servicos-box {
+    }
+  
+    .servicos-box {
       flex-direction: row;
       gap: 1rem;
-  }
-
-  .item-servico {
+    }
+  
+    .item-servico {
       width: 240px;
       height: 240px;
       border-radius: 10px;
-  }
-  
-  .item-servico i {
+    }
+    
+    .item-servico i {
       font-size: 2.5rem;
-  }
-
-  .item-servico span {
+    }
+  
+    .item-servico span {
       font-size: 1rem;
+    }
   }
-
-}
