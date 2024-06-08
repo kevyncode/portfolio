@@ -11,7 +11,6 @@ Este portfólio inclui uma coleção de meus projetos mais notáveis, detalhando
 - HTML5
 - CSS3
 - JavaScript
-- [Outras Tecnologias ou Frameworks que você utilizar]
 
 ## Licença
 
