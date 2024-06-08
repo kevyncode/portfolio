@@ -22,7 +22,8 @@ Este portfólio inclui uma coleção de meus projetos mais notáveis, detalhando
 
 Este projeto está licenciado sob a MIT License (MIT).
 
-## Contato 
+## Contato
 
-LinkedIn: linkedin.com/in/kevyncode <br>
-GitHub: github.com/kevyncode
+[LinkedIn](https://www.linkedin.com/in/kevyncode)  
+[GitHub](https://github.com/kevyncode)<br>
+[WhatsApp](https://wa.me/5587998092391)
