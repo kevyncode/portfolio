@@ -15,7 +15,7 @@ Este portfólio inclui uma coleção de meus projetos mais notáveis, detalhando
 ## Demonstração do Projeto
 
 <p align="center">
-  <img src="images/demonstração.png" alt="user">
+  <img src="website-demo-image/demonstração.png" alt="user">
 </p>
 
 ### Link do projeto [KevynCode | Portfolio](https://kevyncode.github.io/portfolio)
